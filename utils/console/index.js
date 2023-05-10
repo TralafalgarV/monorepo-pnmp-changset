@@ -1,5 +1,5 @@
 function hello(msg = "world") {
-  return `hello ${msg}!`;
+  return `hello ${msg} Fuck!`;
 }
 
 export { hello };
